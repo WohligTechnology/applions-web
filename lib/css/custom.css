@@ -1,0 +1,72 @@
+p.text-xs {
+    text-align: justify;
+}
+
+media="screen" textarea {
+    width: 60%;
+    max-width: 32em;
+    height: 4em;
+}
+
+[class^="flaticon-"]:before,
+[class*="flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*="flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: 35px;
+    font-style: normal;
+    margin-left: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.customerbg{
+    background-color:#F3F3F3 !important;
+}
+.dealerbg{
+    background-color: #FCFCFC!important;
+}
+.servicebg{
+    background-color: #F3F3F3 !important;
+}
+.contactbg{
+     background-color: #FCFCFC!important;
+}
+.list-unstyled{
+    list-style: none;
+}
+.text-muted li{
+    font-size: 14px;
+}
+.text-muted{
+    color:#000;
+    margin-top: 30px;
+  margin-left: -60px;
+}
+.column{
+    margin-right: 1.2%;
+}
+.title-hd{
+    padding:120px 20px 20px 20px;
+}
+.opt-class{
+   width: 100%;
+  padding: 7px;
+  color: rgb(179, 179, 179);
+  border: 2px solid rgb(226, 226, 226);
+  background-color: rgb(251, 251, 251);
+  border-radius: 5px;226);
+}
+.mt30{
+    margin-top:30px;
+}
+.mt20{
+    margin-top:20px;
+}
+.cmore:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.section-form{
+    min-height: 420px!important;
+}
